@@ -1,4 +1,8 @@
-# THE IMPACT OF COST OF LIVING ON ECONOMIC HEALTH:AN AFRICAN PERSPECTIVE
+# THE IMPACT OF COST OF LIVING ON ECONOMIC HEALTH: AN AFRICAN PERSPECTIVE
+
+![image.alt](https://github.com/Somagachukwu/THE-IMPACT-OF-COST-OF-LIVING-ON-ECONOMIC-HEALTH-AN-AFRICAN-PERSPECTIVE/blob/main/Impact%20of%20cost/Impact%20Of%20Cost.png)
+
+
 
 # INTRODUCTION
 #### In recent years, the rising cost of living has become a pressing issue across the African continent, impacting millions of households and shaping the trajectory of economic development. This trend is characterized by a steady increase in the prices of essential goods and services such as food, energy, housing, healthcare, and education, which often outpaces wage growth. The phenomenon has far-reaching implications for both individual well-being and the broader economic health of African nations, where income inequality and high poverty rates already pose significant challenges.
@@ -30,6 +34,8 @@
 ## CREATING RELATIONSHIPS BETWEEN THE TABLES
 #### With the dataset cleaned and ready to be analysed, a many-to-one relationship was created across all tables to ease analysis.
 
+![image.alt](https://github.com/Somagachukwu/THE-IMPACT-OF-COST-OF-LIVING-ON-ECONOMIC-HEALTH-AN-AFRICAN-PERSPECTIVE/blob/main/Impact%20of%20cost/Impact%20of%20cost%20modelling.png)
+
 ## ANALYSIS
 ## CREATING A DASHBOARD
 #### While this analysis is more of a report presentation than a visualization presentation, a one page dashboard was still created to show the summary of the key metrics which includes:
@@ -38,6 +44,8 @@
 * Cost of living Index by Country: Shows the percentage cost of living for different countries
 * Inflation Rate by country: This shows the inflation rate annually for different countries.
 * Local Purchasing Power Index by Inflation Rates of Countries: This shows the percentage of local purchasing power and inflation rates of different countries.
+  
+![image.alt](https://github.com/Somagachukwu/THE-IMPACT-OF-COST-OF-LIVING-ON-ECONOMIC-HEALTH-AN-AFRICAN-PERSPECTIVE/blob/main/Impact%20of%20cost/Impact%20of%20cost%20of%20living.png)
 
 ## Observations
 1. Cameroon and Zimbabwe have the highest cost of living index and Libya with the least.
