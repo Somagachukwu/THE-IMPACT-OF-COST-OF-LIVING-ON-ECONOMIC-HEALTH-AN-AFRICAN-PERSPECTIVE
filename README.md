@@ -1,4 +1,4 @@
-# THE-IMPACT-OF-COST-OF-LIVING-ON-ECONOMIC-HEALTH-AN-AFRICAN-PERSPECTIVE
+# THE IMPACT OF COST OF LIVING ON ECONOMIC HEALTH:AN AFRICAN PERSPECTIVE
 
 # INTRODUCTION
 #### In recent years, the rising cost of living has become a pressing issue across the African continent, impacting millions of households and shaping the trajectory of economic development. This trend is characterized by a steady increase in the prices of essential goods and services such as food, energy, housing, healthcare, and education, which often outpaces wage growth. The phenomenon has far-reaching implications for both individual well-being and the broader economic health of African nations, where income inequality and high poverty rates already pose significant challenges.
